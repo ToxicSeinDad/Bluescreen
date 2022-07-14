@@ -1,5 +1,5 @@
 # Bluescreen
-Creates a Bluescreen by taskkilling svchost.exe
+Creates a Bluescreen by ending the svchost.exe process
 
 educational purposes only
 
